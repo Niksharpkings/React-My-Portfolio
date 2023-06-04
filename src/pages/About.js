@@ -2,10 +2,7 @@ import coverImage from "../images/67552318.png";
 
 export default function About() {
   return (<section className="about">
-    <img
-    src={coverImage}
-    style={{ width: "20%" }}
-    alt="cover" />
+    <img src={coverImage} style={{ width: "20%" }} alt="cover" />
     <div style={{ width: "60%" }}>
     <h2>Hello,</h2>
       <p>
@@ -89,3 +86,4 @@ export default function About() {
   </section>
   );
 }
+
