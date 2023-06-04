@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/67552318/185777728-2e87944a-d6c9-4a51-a70e-0ad7ee5b2961.png)
 
 ## Live Deployed Website - Hosted by github pages.
-[React-my-portfolio website link](niksharpkings.github.io/React-My-Portfolio)
+[React-my-portfolio website link](https//www.niksharpkings.github.io/React-My-Portfolio/)
 
 
 ## Available Scripts
