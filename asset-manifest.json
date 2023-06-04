@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/niksharpkings.github.io/React-My-Portfolio/static/css/main.43033cdf.css",
-    "main.js": "/niksharpkings.github.io/React-My-Portfolio/static/js/main.827cd45e.js",
+    "main.css": "/niksharpkings.github.io/React-My-Portfolio/static/css/main.95c67523.css",
+    "main.js": "/niksharpkings.github.io/React-My-Portfolio/static/js/main.87672a32.js",
     "static/media/180572719-a97145bc-e921-4c2b-a72d-3919614b314e.png": "/niksharpkings.github.io/React-My-Portfolio/static/media/180572719-a97145bc-e921-4c2b-a72d-3919614b314e.6d82cb365940474accc5.png",
     "static/media/181427032-eae96456-d6c7-4b8a-9d2b-b105535d5970.png": "/niksharpkings.github.io/React-My-Portfolio/static/media/181427032-eae96456-d6c7-4b8a-9d2b-b105535d5970.2f15c566b0a52e6f064d.png",
     "static/media/Screenshot 2022-08-20 220822.png": "/niksharpkings.github.io/React-My-Portfolio/static/media/Screenshot 2022-08-20 220822.843fd25b66078f7ed253.png",
-    "static/media/bootstrap-icons.woff?": "/niksharpkings.github.io/React-My-Portfolio/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/niksharpkings.github.io/React-My-Portfolio/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/bootstrap-icons.woff?": "/niksharpkings.github.io/React-My-Portfolio/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
     "static/media/Nikita-Sharpio.pdf": "/niksharpkings.github.io/React-My-Portfolio/static/media/Nikita-Sharpio.5ee9bf58f77e6ff2099a.pdf",
+    "static/media/bootstrap-icons.woff2?": "/niksharpkings.github.io/React-My-Portfolio/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
     "static/media/67552318.png": "/niksharpkings.github.io/React-My-Portfolio/static/media/67552318.43ac3a6e48e99c42cf70.png",
     "static/media/184286794-dfe5489c-9e3c-4b15-b536-a0066464bc6f.png": "/niksharpkings.github.io/React-My-Portfolio/static/media/184286794-dfe5489c-9e3c-4b15-b536-a0066464bc6f.84211c87010ab95ad79b.png",
     "index.html": "/niksharpkings.github.io/React-My-Portfolio/index.html",
-    "main.43033cdf.css.map": "/niksharpkings.github.io/React-My-Portfolio/static/css/main.43033cdf.css.map",
-    "main.827cd45e.js.map": "/niksharpkings.github.io/React-My-Portfolio/static/js/main.827cd45e.js.map"
+    "main.95c67523.css.map": "/niksharpkings.github.io/React-My-Portfolio/static/css/main.95c67523.css.map",
+    "main.87672a32.js.map": "/niksharpkings.github.io/React-My-Portfolio/static/js/main.87672a32.js.map"
   },
   "entrypoints": [
-    "static/css/main.43033cdf.css",
-    "static/js/main.827cd45e.js"
+    "static/css/main.95c67523.css",
+    "static/js/main.87672a32.js"
   ]
 }
